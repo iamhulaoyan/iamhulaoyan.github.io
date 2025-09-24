@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'Fusion Pixel 12';
+	src: url(fonts/fusion-pixel-12px-monospaced-zh_hant.ttf);
+}
+
+body{background-image: url(images/sky_hiru.png);
+	background-size: cover;}
+
+div{display: block;
+	position: relative;
+	top: 25px;}
+
+div3{display: flex;
+	position: relative;
+	width: 100px;
+	top: 100px;
+	margin-left: auto;
+	margin-right: auto;}	
+
+
+div2{display: block;
+		width: 100px;
+		position: absolute;
+		top: 10px;
+		left: 5px;
+		text-align: center;}
+
+div4{display: flex;
+	position: relative;
+	width: 125px;
+	top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;}
+
+
+	a{font-family: 'Fusion Pixel 12';
+		font-size: 18px;
+		text-shadow: 1px 1px #000000;
+		color: #ffffff;
+		text-decoration: none;}
+
+	p{font-family: 'Fusion Pixel 12';
+		font-size: 16px;
+		color: #000000}
